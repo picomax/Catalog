@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>아일 오브 스카이,페어리 풀스, 스코트랜드</string>
+		<key>subtitle</key>
+		<string>Fairy Pools, Isle of Skye, Scotland</string>
+		<key>description</key>
+		<string>스카이섬에서는 바위 은신처들이 웨스터 로드 해안의 모래지역과 애플크로스에서 많이 발견된거로 보아 중석기시대의 사냥꾼들의 활동무대로 여겨 진다고 합니다.
+멋진 자연경관과 아름답고 험한 산, 고대 역사속의 유적과 유물과 성들 해안을 따라 이어지는 관경들은 평생 잊지 못할 아름다운 추억을 만들어 줄 아름다고 멋진 장소라고 해요</string>
+		<key>photo</key>
+		<string>fairy_pools00</string>
+		<key>thumbnail1</key>
+		<string>fairy_pools01</string>
+		<key>thumbnail2</key>
+		<string>fairy_pools02</string>
+		<key>thumbnail3</key>
+		<string>fairy_pools03</string>
+		<key>score</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>호라이마 산, 남 아메리카</string>
+		<key>subtitle</key>
+		<string>Mount Roraima, South America</string>
+		<key>description</key>
+		<string>기아나 고원의 세 국경(베네수엘라, 가이아나, 브라질)에 걸쳐 있는 산! 정상이 평평한 탁자 모양의 산이라고 해요.
+구름이 많은 날 가면 정상에서는 구름 위에 있는듯한 묘한 기분을 느낄 수 있다고 합니다.</string>
+		<key>photo</key>
+		<string>mount_roraima00</string>
+		<key>thumbnail1</key>
+		<string>mount_roraima01</string>
+		<key>thumbnail2</key>
+		<string>mount_roraima02</string>
+		<key>thumbnail3</key>
+		<string>mount_roraima03</string>
+		<key>score</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>파타고니아 카레라 호수 대리석 동굴, 칠레</string>
+		<key>subtitle</key>
+		<string>Patagonia Marble Caves, Chile</string>
+		<key>description</key>
+		<string>대리석에 호수가 반사되어 동굴 안으로 들어가면 밖에서 볼 때와는 전혀 다른 대리석의 매력을 느낄 수 있다고 합니다.
+도로 로부터 멀리 떨어져 있는 이 동굴을 보기 위해서는 보트를 이용해야 하고, 신비롭고 장엄한 분위기의 동굴은 ‘대리석 대성당’으로도 불린답니다.</string>
+		<key>photo</key>
+		<string>patagonia_marble_caves00</string>
+		<key>thumbnail1</key>
+		<string>patagonia_marble_caves01</string>
+		<key>thumbnail2</key>
+		<string>patagonia_marble_caves02</string>
+		<key>thumbnail3</key>
+		<string>patagonia_marble_caves03</string>
+		<key>score</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>우유니 소금 사막, 볼리비아</string>
+		<key>subtitle</key>
+		<string>Salar De Uyuni, Bolivia</string>
+		<key>description</key>
+		<string>볼리비아 포토시 주의 우유니 서쪽 끝에 있는 소금으로 뒤 덮인 사막!
+세계 최대의 소금 사막으로 ‘우유니 소금호수’로도 불린다고도 합니다.</string>
+		<key>photo</key>
+		<string>salar_de_uyuni00</string>
+		<key>thumbnail1</key>
+		<string>salar_de_uyuni01</string>
+		<key>thumbnail2</key>
+		<string>salar_de_uyuni02</string>
+		<key>thumbnail3</key>
+		<string>salar_de_uyuni03</string>
+		<key>score</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>하늘 간헐천, 미국 네바다 주</string>
+		<key>subtitle</key>
+		<string>Fly Geyser, Nevada</string>
+		<key>description</key>
+		<string>간헐천은 온천수와 수증기가 일정한 간격으로 뿜어져 나오는 곳이죠^^
+간헐천이 이렇게 아름답기까지 해도 되는건가요?</string>
+		<key>photo</key>
+		<string>fly_geyser00</string>
+		<key>thumbnail1</key>
+		<string>fly_geyser01</string>
+		<key>thumbnail2</key>
+		<string>fly_geyser02</string>
+		<key>thumbnail3</key>
+		<string>fly_geyser03</string>
+		<key>score</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>핑갈의 동굴, 스코틀랜드</string>
+		<key>subtitle</key>
+		<string>Fingal’s Cave, Scotland</string>
+		<key>description</key>
+		<string>‘핑갈’은 스코틀랜드의 전설에 등장하는 영웅의 이름에서 따온 거랍니다.
+동굴 내부에 파도가 들이치며 만들어내는 소리는 대성당에 있는 파이프 오르간의 울림과 같이 웅장하다고 하네요~</string>
+		<key>photo</key>
+		<string>fingals_cave00</string>
+		<key>thumbnail1</key>
+		<string>fingals_cave01</string>
+		<key>thumbnail2</key>
+		<string>fingals_cave02</string>
+		<key>thumbnail3</key>
+		<string>fingals_cave03</string>
+		<key>score</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>별의 바다, 몰디브 바드후섬</string>
+		<key>subtitle</key>
+		<string>Sea of Stars, Vaadhoo Island, Maldives</string>
+		<key>description</key>
+		<string>별의 바다가 반짝이는 이유는 물에 살고 있는 플랑크톤들이 충격을 받았을 때 해수 중의 산소와 반응하여 불빛을 만들어 낸다고 합니다.
+정말 대단하다는 말밖엔…</string>
+		<key>photo</key>
+		<string>sea_of_stars00</string>
+		<key>thumbnail1</key>
+		<string>sea_of_stars01</string>
+		<key>thumbnail2</key>
+		<string>sea_of_stars02</string>
+		<key>thumbnail3</key>
+		<string>sea_of_stars03</string>
+		<key>score</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>사랑의 터널, 우크라이나 클레반</string>
+		<key>subtitle</key>
+		<string>Tunnel of Love, Klevan, Ukraine</string>
+		<key>description</key>
+		<string>터널 안은 수많은 나무와 관목 덤불이 서로 엉켜서 아치 모양을 이루고 있답니다.
+수 많은 관광객과 커플들의 장소로 유명하며 터널을 함께 걸으면 사랑이나 소원을 이룰 수 있다는 이야기도 전해지고 있다고 해요!
+믿거나 말거나ㅎ</string>
+		<key>photo</key>
+		<string>tunnel_of_love00</string>
+		<key>thumbnail1</key>
+		<string>tunnel_of_love01</string>
+		<key>thumbnail2</key>
+		<string>tunnel_of_love02</string>
+		<key>thumbnail3</key>
+		<string>tunnel_of_love03</string>
+		<key>score</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>파묵칼레, 터키</string>
+		<key>subtitle</key>
+		<string>Pamukkale Hot Springs, Turkey</string>
+		<key>description</key>
+		<string>석회층으로 이루어진 터키 남서부의 온천지대입니다~
+빙산이나 설산 같이 느껴지네요^^
+파묵칼레는 ‘목화의 성’이라는 의미로 경사면을 흐르는 온천수가 빚어낸 장관 때문에 붙은 이름입니다~
+하얗고 파래요~~ㅎ</string>
+		<key>photo</key>
+		<string>pamukkale_hot_springs00</string>
+		<key>thumbnail1</key>
+		<string>pamukkale_hot_springs01</string>
+		<key>thumbnail2</key>
+		<string>pamukkale_hot_springs02</string>
+		<key>thumbnail3</key>
+		<string>pamukkale_hot_springs03</string>
+		<key>score</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>트롤퉁가 전망대, 노르웨이</string>
+		<key>subtitle</key>
+		<string>Trolltunga in Hordaland, Norway</string>
+		<key>description</key>
+		<string>‘트롤의 혀’라는 별명을 갖고 있는 트롤퉁가는 빙하가 창조한 자연의 신비!!!
+해발 1100m 높이에 위치한 기암절벽이랍니다.
+도보로 8시간이나 걸리며, 전화도 안돼는데도 이 멋진 곳을 보려고 전 세계 관광객들이 모인다고 합니다~
+꼭 가봐야 하는 명소에요~~</string>
+		<key>photo</key>
+		<string>trolltunga_in_hordaland00</string>
+		<key>thumbnail1</key>
+		<string>trolltunga_in_hordaland01</string>
+		<key>thumbnail2</key>
+		<string>trolltunga_in_hordaland02</string>
+		<key>thumbnail3</key>
+		<string>trolltunga_in_hordaland03</string>
+		<key>score</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>앤틸로프 캐년, 미국 애리조나 주</string>
+		<key>subtitle</key>
+		<string>Antelope Canyon in Arizona, U.S</string>
+		<key>description</key>
+		<string>그랜드 캐년이 있는 애리조나 주에, 규모가 작은 신비로운 협곡이 있답니다.
+나바호족의 부속공원이라 맘대로 관광할 수는 없기에 나바호족에서 운영하는 투어가이드와 함께라면 관광이 가능하다고 합니다.
+햇빛이 조명같아요~~ㅎ</string>
+		<key>photo</key>
+		<string>antelope_canyon_in_arizona00</string>
+		<key>thumbnail1</key>
+		<string>antelope_canyon_in_arizona01</string>
+		<key>thumbnail2</key>
+		<string>antelope_canyon_in_arizona02</string>
+		<key>thumbnail3</key>
+		<string>antelope_canyon_in_arizona03</string>
+		<key>score</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>유리 이글루 빌리지 호텔, 핀란드</string>
+		<key>subtitle</key>
+		<string>Glass Igloo Village Hotels, Finland</string>
+		<key>description</key>
+		<string>정멀 너무 아름답다고 하네요~~~ 계절을 잘 마추면 오로라도 볼 수 있다고 합니다.
+겨울을 좋아하시는 분이라면 무조건 가바야 할듯요~~</string>
+		<key>photo</key>
+		<string>glass_igloo_village_hotels00</string>
+		<key>thumbnail1</key>
+		<string>glass_igloo_village_hotels01</string>
+		<key>thumbnail2</key>
+		<string>glass_igloo_village_hotels02</string>
+		<key>thumbnail3</key>
+		<string>glass_igloo_village_hotels03</string>
+		<key>score</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>스카프타펠 얼음동굴, 아이슬란드</string>
+		<key>subtitle</key>
+		<string>Crystal Cave in Skaftafell, Iceland</string>
+		<key>description</key>
+		<string>아이슬란드 스카프타펠에 아름답고 신비한 얼음으로 이루어진 동굴이 있다고 해요.
+동굴 천장이 물고기 비늘형태로 조각된 것 같은 얼음 으로 둘러 싸여 있다고 합니다.
+해질 무렵 푸른 빛을 발광하는 신비롭고 아름다운 광경을 볼 수 있다고 해요.
+동굴 바닥이 얼음으로 되어 있어 굉장히 미끄럽고 지구 온난화 현상의 영향으로 내부가 조금식 녹고 있다고 합니다.
+위험하다는군요~~ㅎ
+그래도 녹아 없어지기 전에 꼭 가서 직접 사진을 찍어 오고 싶어요~~
+같이 가실분?ㅎㅎㅎ</string>
+		<key>photo</key>
+		<string>crystal_cave_in_skaftafell00</string>
+		<key>thumbnail1</key>
+		<string>crystal_cave_in_skaftafell01</string>
+		<key>thumbnail2</key>
+		<string>crystal_cave_in_skaftafell02</string>
+		<key>thumbnail3</key>
+		<string>crystal_cave_in_skaftafell03</string>
+		<key>score</key>
+		<string>3</string>
+	</dict>
+</array>
+</plist>
