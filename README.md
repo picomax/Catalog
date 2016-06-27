@@ -9,7 +9,6 @@ CatalogInfo.plist 파일에 여행지와 이미지 리소스 파일에 대한 �
 
 ## 스크린샷
 
-![](http://www.picomax.net/xe/files/attach/images/207/347/073/56a268fe40db7fa18ffefe3f8ff14216.png)
 ![](http://www.picomax.net/xe/files/attach/images/207/347/073/aa0cceff5291bab63bf3534d6f0f1076.png)
 ![](http://www.picomax.net/xe/files/attach/images/207/347/073/47dd04fc8dc78c03ff26712e9f356387.png)
 ![](http://www.picomax.net/xe/files/attach/images/207/347/073/4343d5e761f78e93228a5cd10096c8b8.png)
