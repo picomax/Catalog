@@ -19,7 +19,7 @@ CatalogInfo.plist 파일에 여행지와 이미지 리소스 파일에 대한 �
 
 ## 라이선스
 
-Copyright (c) 2015, [Jeong-Hoon Mo](https://github.com/picomax).
+Copyright (c) 2016, [Jeong-Hoon Mo](https://github.com/picomax).
 All rights reserved.
 
 [http://picomax.net/73347](http://picomax.net/73347)
