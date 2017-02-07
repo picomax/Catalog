@@ -1,23 +1,24 @@
-# 초간단 Catalog 앱
+# Simple Catalog App
 
-강의/학습 용으로 제작한 초간단 카달로그 앱
+This project is a sample app designed for basic learning of iOS and Swift.
+This sample(Catalog) app allows you to practice simple and basic exercises on image use and table view.
 
-## 주요 기능
-CatalogInfo.plist 파일에 여행지와 이미지 리소스 파일에 대한 정보가 있고,
-이 정보들을 로드하여 리스트와 상세페이지에 출력합니다.
+## Main Function
+The CatalogInfo.plist file contains information about travel destinations and image resource files,
+Loads this information and prints it on the list and detail page.
 > CatalogInfo.plist
 
-## 스크린샷
+## Screenshots
 
 ![](https://raw.githubusercontent.com/picomax/Catalog/master/Screenshot01.png)
 ![](https://raw.githubusercontent.com/picomax/Catalog/master/Screenshot02.png)
 ![](https://raw.githubusercontent.com/picomax/Catalog/master/Screenshot03.png)
 
-## 현재 상태
+## Current Status
 
-강의용 샘플 버전이며, 추후 업데이트 할 예정.
+This app is a sample version for learning and will be updated in the future.
 
-## 라이선스
+## License
 
 Copyright (c) 2016, [Jeong-Hoon Mo](https://github.com/picomax).
 All rights reserved.
